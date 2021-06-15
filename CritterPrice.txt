@@ -1,0 +1,145 @@
+Common Butterfly - 160
+Yellow Butterfly - 160
+Tiger Butterfly - 240
+Peacock Butterfly - 2500
+Common Bluebottle - 300
+Paper Kite Butterfly - 1000
+Great Purple Emperor - 1500
+Monarch Butterfly - 140
+Emperor Butterfly - 4000
+Agrias Butterfly - 3000
+Rajah Brooke's Birdwing - 2500
+Queen Alexandra's Birdwing - 4000
+Moth - 130
+Atlas Moth - 3000
+Madagascan Sunset Moth - 2500
+Long Locust - 200
+Migratory Locust - 600
+Rice Grasshopper - 160
+Grasshopper - 160
+Cricket - 130
+Bell Cricket - 130
+Mantis - 430
+Orchid Mantis - 2400
+Honeybee - 200
+Wasp - 2500
+Brown Cicada - 250
+Robust Cicada - 500
+Giant Cicada - 500
+Walker Cicada - 500
+Evening Cicada - 500
+Cicada Shell - 500
+Red Dragonfly - 180
+Darner Dragonfly - 230
+Banded Dragonfly - 4500
+Damselfly - 500
+Firefly - 300
+Mole Cricket - 500
+Pondskater - 130
+Diving Beetle - 800
+Giant Water Beetle - 2000
+Stinkbug - 120
+Man-faced Stink Bug - 1000
+Ladybug - 200
+Tiger Beetle - 1500
+Jewel Beetle - 2400
+Citrus Long-horned Beetle - 350
+Rosalia Batesi Beetle - 3000
+Blue Weevil Beetle - 500
+Violin Beetle - 450
+Dung Beetle - 300
+Earth-boring Dung Beetle - 300
+Scarab Beetle - 500
+Drone Beetle - 200
+Goliath Beetle - 500
+Saw Stag - 500
+Miyama Stag - 500
+Giant Stag - 500
+Rainbow Stag - 500
+Cyclommatus Stag - 500
+Golden Stag - 500
+Giraffe Stag - 500
+Horned Dynastid - 500
+Horned Atlas - 500
+Horned Elephant - 500
+Horned Hercules - 500
+Walking Stick - 500
+Walking Leaf - 600
+Bagworm - 600
+Ant - 80
+Hermit Crab - 1000
+Wharf Roach - 200
+Fly - 200
+Mosquito - 130
+Flea - 70
+Snail - 250
+Pill Bug - 250
+Centipede - 300
+Spider - 480
+Tarantula - 8000
+Scorpion - 8000
+Anchovy - 200
+Angelfish - 3000
+Arowana - 10000
+Barred Knifejaw - 5000
+Barreleye - 12000
+Betta - 2500
+Bitterling - 900
+Black Bass - 400
+Blowfish - 5000
+Blue Marlin - 10000
+Bluegill - 180
+Carp - 300
+Catfish - 800
+Char - 3800
+Cherry Salmon - 1000
+Clownfish - 650
+Coelacanth - 15000
+Crawfish - 200
+Crucian Carp - 160
+Dab - 300
+Dace - 240
+Football Fish - 2500
+Freshwater Goby - 400
+Golden Trout - 15000
+Goldfish - 1300
+Great White Shark - 15000
+Guppy - 1300
+Hammerhead Shark - 8000
+Horse Mackerel - 150
+King Salmon - 1800
+Koi - 4000
+Loach - 400
+Mitten Crab - 2000
+Moray Eel - 2000
+Neon Tetra - 500
+Oarfish - 9000
+Ocean Sunfish - 4000
+Olive Flounder - 800
+Pale Chub - 200
+Pike - 1800
+Piranha - 2500
+Pond Smelt - 320
+Pop-eyed Goldfish - 1300
+Puffer Fish - 250
+Rainbowfish - 800
+Ranchu Goldfish - 4500
+Ray - 3000
+Red Snapper - 3000
+Ribbon Eel - 600
+Salmon - 700
+Sea Bass - 400
+Sea Butterfly - 1000
+Seahorse - 1100
+Soft-shelled Turtle - 3750
+Squid - 500
+Stringfish - 15000
+Sturgeon - 10000
+Suckerfish - 1500
+Sweetfish - 900
+Tadpole - 100
+Tilapia - 800
+Tuna - 7000
+Whale Shark - 13000
+Yellow Perch - 300
+Zebra Turkeyfish - 500
