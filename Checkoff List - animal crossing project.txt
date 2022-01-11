@@ -1,0 +1,11 @@
+ANIMAL CROSSING ISLAND BUG/FISH SWAP
+
+
+- user needs to input a bug they've caught
+- user input done to show space is full
+
+
+- program needs to read files containing the bug and fish prices
+- program needs to not ask if I want to swap anything out until my inventory is full
+- program needs to determine if the fish/bug I just caught is worth more than anything in my inventory once my inventory is full
+- need to be able to eliminate bugs or fish from the list of things I can swap out if I haven't donated them yet
